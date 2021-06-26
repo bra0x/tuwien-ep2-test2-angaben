@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test2.iml" filepath="$PROJECT_DIR$/.idea/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2A/probetest2A.iml" filepath="$PROJECT_DIR$/probetest2A/probetest2A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2B/probetest2B.iml" filepath="$PROJECT_DIR$/probetest2B/probetest2B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2C/probetest2C.iml" filepath="$PROJECT_DIR$/probetest2C/probetest2C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2D/probetest2D.iml" filepath="$PROJECT_DIR$/probetest2D/probetest2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2E/probetest2E.iml" filepath="$PROJECT_DIR$/probetest2E/probetest2E.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probetest2F/probetest2F.iml" filepath="$PROJECT_DIR$/probetest2F/probetest2F.iml" />
+    </modules>
+  </component>
+</project>
